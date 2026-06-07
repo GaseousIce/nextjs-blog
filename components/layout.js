@@ -45,7 +45,7 @@ export default function Layout({ children, home }) {
                         <Link href="/">
                             <Image
                                 priority
-                                src="/images/profile.jpg"
+                                src="https://s4.anilist.co/file/anilistcdn/user/avatar/large/b899080-HxTLSSiciG3z.jpg"
                                 className={utilStyles.borderCircle}
                                 height={108}
                                 width={108}
